@@ -46,7 +46,7 @@ Final-year **Computer Science Engineering (Cybersecurity)** student at M.H. Sabo
   </tr>
 </table>
 
-- **MCP ↔ Splunk threat monitoring**: an MCP server that lets an LLM run Splunk searches (SPL) and check alerts in plain English. Tested on Splunk BOTS v3.
+- **[MCP ↔ Splunk threat monitoring](https://github.com/Amin-Patel/mcp-splunk-server)**: an MCP server that lets an LLM run Splunk searches (SPL) and check alerts in plain English. Tested on Splunk BOTS v3.
 - **[OWASP AI Model Watermarking](https://github.com/Yashbandiwadekar/owasp-ai-model-watermarking)**: zero-knowledge ownership verification for neural-network watermarks.
 
 ### Skills
