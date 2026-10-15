@@ -23,14 +23,31 @@ Final-year **Computer Science Engineering (Cybersecurity)** student at M.H. Sabo
 - ☁️ **AWS Certified Cloud Practitioner** · AWS re/Start Graduate · TryHackMe SEC1 & SEC0
 - 📝 Short notes on security, DFIR and AD: [`til`](https://github.com/Yashbandiwadekar/til)
 
+> 💼 **Open to:** SOC Analyst (L1) · Security Operations · DFIR roles, from mid-2027 · [Get in touch on LinkedIn](https://www.linkedin.com/in/yash-bandiwadekar)
+
 ### Featured projects
 
-| Project | What it does | Links |
-|---|---|---|
-| **Phoenix IDPS** · Network threat forecasting | Turns network flow data into a threat state, classifies the attack stage, maps it to MITRE ATT&CK and **forecasts intrusion progress 60 s ahead**, with explainable evidence for every alert. Trained on CIC-IDS-2018 (1.25M flow sequences). Includes a SHA-256 hash-chained audit ledger and offline CERT-In report drafting. | [Live demo](https://phoenixidps.dpdns.org) · [Code](https://github.com/Yashbandiwadekar/network-attack-forecasting) |
-| **SecureMailScope** · Email security forensics | Parses PCAPs, rebuilds SMTP/IMAP/POP3 sessions and audits TLS, ciphers and X.509 certificates. Flags plaintext credentials, missing STARTTLS and deprecated protocols, then outputs a 0–100 risk score and a JSON report. | [Live demo](https://mailscope.dpdns.org) |
-| **MCP ↔ Splunk** · Threat-monitoring integration | An MCP server that lets an LLM run Splunk searches (SPL) and check alerts in plain English. Tested on the Splunk BOTS v3 dataset. | Python |
-| **OWASP AI Model Watermarking** | Zero-knowledge ownership verification for neural-network watermarks | [Code](https://github.com/Yashbandiwadekar/owasp-ai-model-watermarking) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://phoenixidps.dpdns.org"><img src="assets/phoenix-idps.jpg" alt="Phoenix IDPS" /></a>
+      <h4>🔥 Phoenix IDPS: network threat forecasting</h4>
+      Turns network flows into a threat state, classifies the attack stage, maps it to <b>MITRE ATT&CK</b> and <b>forecasts intrusion progress 60 s ahead</b>, with evidence behind every alert. Trained on CIC-IDS-2018 (1.25M flow sequences). Includes a hash-chained audit ledger and CERT-In report drafting.
+      <br /><br />
+      <a href="https://phoenixidps.dpdns.org"><b>Live demo</b></a> · <a href="https://github.com/Yashbandiwadekar/network-attack-forecasting"><b>Code</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://mailscope.dpdns.org"><img src="assets/securemailscope.jpg" alt="SecureMailScope" /></a>
+      <h4>📧 SecureMailScope: email security forensics</h4>
+      Parses PCAPs, rebuilds <b>SMTP/IMAP/POP3</b> sessions and audits TLS, ciphers and X.509 certificates. Flags plaintext credentials, missing STARTTLS and deprecated protocols, then gives a <b>0–100 risk score</b> and a JSON report.
+      <br /><br />
+      <a href="https://mailscope.dpdns.org"><b>Live demo</b></a>
+    </td>
+  </tr>
+</table>
+
+- **MCP ↔ Splunk threat monitoring**: an MCP server that lets an LLM run Splunk searches (SPL) and check alerts in plain English. Tested on Splunk BOTS v3.
+- **[OWASP AI Model Watermarking](https://github.com/Yashbandiwadekar/owasp-ai-model-watermarking)**: zero-knowledge ownership verification for neural-network watermarks.
 
 ### Skills
 
