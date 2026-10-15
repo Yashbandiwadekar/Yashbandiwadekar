@@ -41,7 +41,7 @@ Final-year **Computer Science Engineering (Cybersecurity)** student at M.H. Sabo
       <h4>📧 SecureMailScope: email security forensics</h4>
       Parses PCAPs, rebuilds <b>SMTP/IMAP/POP3</b> sessions and audits TLS, ciphers and X.509 certificates. Flags plaintext credentials, missing STARTTLS and deprecated protocols, then gives a <b>0–100 risk score</b> and a JSON report.
       <br /><br />
-      <a href="https://mailscope.dpdns.org"><b>Live demo</b></a>
+      <a href="https://mailscope.dpdns.org"><b>Live demo</b></a> · <a href="https://github.com/Amin-Patel/SecureMailScope"><b>Code</b></a>
     </td>
   </tr>
 </table>
